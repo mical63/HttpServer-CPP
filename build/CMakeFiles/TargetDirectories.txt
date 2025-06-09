@@ -1,0 +1,3 @@
+/home/mical/HttpSevver/HttpServer-CPP/build/CMakeFiles/a.out.dir
+/home/mical/HttpSevver/HttpServer-CPP/build/CMakeFiles/edit_cache.dir
+/home/mical/HttpSevver/HttpServer-CPP/build/CMakeFiles/rebuild_cache.dir
